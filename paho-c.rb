@@ -1,4 +1,3 @@
-
 class PahoC < Formula
   desc ""
   homepage ""
