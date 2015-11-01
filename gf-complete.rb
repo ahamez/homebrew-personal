@@ -1,6 +1,6 @@
 class GfComplete < Formula
   desc ""
-  homepage ""
+  homepage "http://jerasure.org/jerasure/gf-complete"
   head "http://lab.jerasure.org/jerasure/gf-complete.git", :using => :git
   version ""
   sha256 ""
